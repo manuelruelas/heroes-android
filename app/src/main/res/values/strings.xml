@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Heroes</string>
+    <string name="hero_image">Hero image</string>
+</resources>

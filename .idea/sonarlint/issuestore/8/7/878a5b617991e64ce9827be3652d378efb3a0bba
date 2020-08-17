@@ -1,0 +1,20 @@
+
+P
+java:S1128".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ8ú™Ôä¿.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş¶»8ÇÍ´ˆ¿.
+P
+java:S1128"4Remove this unused import 'android.app.Application'.(¢¶ÿI8ÊÕ£¿.
+]
+java:S1128"@Remove this unused import 'androidx.lifecycle.AndroidViewModel'.(ïÄœÇ8ÕÔ£¿.
+{	java:S115H"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©Ôİßúÿÿÿÿ8ïÎ»ä¿.
+{	java:S115G"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ºÖ´Íûÿÿÿÿ8ïÎ»ä¿.
+Z
+java:S1128"8Remove this unused import 'androidx.lifecycle.LiveData'.(ß„İŞşÿÿÿÿ8‡¢Àä¿.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ÉĞëš8 îµâ¿.
+N
+java:S1602(",Remove useless curly braces around statement(ËÕ£Õúÿÿÿÿ8 îµâ¿.
+U
+java:S1128"8Remove this unused import 'androidx.annotation.NonNull'.(ˆÛúÜ8ÊÕ£¿.
+N
+java:S16025",Remove useless curly braces around statement(ËÕ£Õúÿÿÿÿ8©ˆöä¿.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(ÉĞëš8©ˆöä¿.
